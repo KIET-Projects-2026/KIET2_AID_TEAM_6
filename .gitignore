@@ -1,0 +1,70 @@
+# ======================
+# Python / Backend
+# ======================
+diabetes-backend/__pycache__/
+diabetes-backend/myenv/
+diabetes-backend/*.pyc
+diabetes-backend/*.pyo
+diabetes-backend/*.pyd
+
+# SQLite DB
+*.sqlite3
+
+# Logs
+*.log
+
+# ======================
+# Virtual Environment
+# ======================
+venv/
+env/
+ENV/
+
+# ======================
+# Model files (CRITICAL)
+# ======================
+diabetes-backend/model/
+*.bin
+*.pt
+*.pth
+
+# ======================
+# Node / Frontend
+# ======================
+diabetes-frontend/node_modules/
+diabetes-frontend/build/
+diabetes-frontend/dist/
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ======================
+# Environment Variables
+# ======================
+.env
+.env.local
+.env.*.local
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# IDE / Editor
+# ======================
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ======================
+# Misc
+# ======================
+coverage/
+*.coverage
+.cache/
