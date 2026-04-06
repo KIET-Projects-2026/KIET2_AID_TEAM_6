@@ -185,7 +185,7 @@ Response:
 
 ## 📷 Screenshots
 
-(Add your screenshots here for better presentation)
+![alt text](<Screenshot 2026-04-04 132942.png>)
 
 ---
 
